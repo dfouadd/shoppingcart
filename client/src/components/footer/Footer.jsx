@@ -1,6 +1,7 @@
 import "../../css/footer/footer.css";
+import words from "../../words";
 const Footer = () => {
-  return <footer>&copy; copyrights : Dina Fouad 2025</footer>;
+  return <footer>{words.footerTitle}</footer>;
 };
 
 export default Footer;
