@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "sass": "gulp sass",
     "watch": "gulp watch",
     "dev": "vite",
     "build": "vite build",
