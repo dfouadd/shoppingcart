@@ -1,6 +1,6 @@
 import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
-import { words } from "../src/words";
+import words from "./words";
 
 function App() {
   return (
