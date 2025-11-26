@@ -1,11 +1,12 @@
 import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
+import { words } from "../src/words";
 
 function App() {
   return (
     <div className="layout">
       <Header />
-      <main>Landing Page</main>
+      <main>{words.content}</main>
       <Footer />
     </div>
   );

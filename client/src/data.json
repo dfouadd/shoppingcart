@@ -1,0 +1,34 @@
+[
+  {
+    "id": "id1",
+    "name": "Airpods",
+    "url": "/client/public/images/product1.jpg",
+    "description": "Boyamini Wireless Lavalier Microphone for iPhone/iPad Android Device",
+    "price": 1500,
+    "size": ["pro", "promax"]
+  },
+  {
+    "id": "id2",
+    "name": "Perfume for women",
+    "url": "/client/public/images/product2.jpg",
+    "description": "Pink sugar by aquolina - perfumes for women - eau de toilette, 100ml",
+    "price": 2000,
+    "size": ["50ml", "100ml", "150ml"]
+  },
+  {
+    "id": "id3",
+    "name": "Shirt for men",
+    "url": "/client/public/images/product3.webp",
+    "description": "shirts for men ",
+    "price": 900,
+    "size": ["Medium", "Large", "X.Large"]
+  },
+  {
+    "id": "id4",
+    "name": "Mobile Case",
+    "url": "/client/public/images/product4.jpg",
+    "description": "Dl3 Mobilak Compatible with Samsung Galaxy S22 Ultra 5G Case",
+    "price": 2000,
+    "size": ["Silver", "Black"]
+  }
+]
