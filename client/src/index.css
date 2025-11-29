@@ -5,6 +5,20 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.wrapper {
+  display: flex;
+  padding: 50px;
+  justify-content: space-between;
+}
+
+.wrapper .products-wrapper {
+  width: 65%;
+}
+
+.wrapper .filter-wrapper {
+  width: 35%;
+}
+
 #root {
   height: 100vh;
 }
